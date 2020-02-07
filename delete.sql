@@ -1,1 +1,1 @@
-delete into testing values (2, 'Trantor')
+delete from testing values (2, 'Trantor')
